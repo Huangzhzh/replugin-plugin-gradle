@@ -59,7 +59,7 @@ java.lang.System.err.println "version=${version}"
 sourceSets {
     main {
         groovy {
-            srcDirs '../replugin-host-gradle/src/main/groovy/com/qihoo360/replugin/gradle/compat'
+//            srcDirs '../replugin-host-gradle/src/main/groovy/com/qihoo360/replugin/gradle/compat'
         }
     }
 }
