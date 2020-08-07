@@ -7,19 +7,29 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/groovy/main/com/qihoo360/replugin/gradle/plugin/manifest/ManifestAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/groovy/main/com/qihoo360/replugin/gradle/plugin/manifest/ManifestAPI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ivy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/ivy.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/replugin-plugin-gradle-2.3.3.2-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/replugin-plugin-gradle-2.3.3.2-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/replugin-plugin-gradle-2.3.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/replugin-plugin-gradle-2.3.3.3-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/replugin-plugin-gradle-2.3.3.3-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/replugin-plugin-gradle-2.3.3.3.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/poms/pom-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/poms/pom-default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/replugin-plugin-gradle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/replugin-plugin-gradle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2-javadoc.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2-javadoc.jar.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2-javadoc.jar.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2-javadoc.jar.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2-sources.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2-sources.jar.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2-sources.jar.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2-sources.jar.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2.jar.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2.jar.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/2.3.3.2/replugin-plugin-gradle-2.3.3.2.jar.sha1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/maven-metadata.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/maven-metadata.xml.md5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/repository/com/qihoo360/replugin/replugin-plugin-gradle/maven-metadata.xml.sha1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rp-config.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/rp-config.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/com/qihoo360/replugin/gradle/plugin/manifest/ManifestAPI.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/groovy/com/qihoo360/replugin/gradle/plugin/manifest/ManifestAPI.groovy" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,11 +85,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="71" column="57" lean-forward="true" selection-start-line="71" selection-start-column="57" selection-end-line="71" selection-end-column="57" />
+            <state relative-caret-position="433">
+              <caret line="131" column="45" lean-forward="true" selection-start-line="131" selection-start-column="45" selection-end-line="131" selection-end-column="45" />
               <folding>
                 <element signature="e#0#605#0" expanded="true" />
               </folding>
@@ -87,63 +97,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rp-config.gradle">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rp-publish.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="931">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/com/qihoo360/replugin/gradle/plugin/manifest/ManifestAPI.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1007">
-              <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/com/qihoo360/replugin/gradle/plugin/injector/loaderactivity/LoaderActivityInjector.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/com/qihoo360/replugin/gradle/plugin/injector/Injectors.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#605#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="247">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -154,6 +112,8 @@
     <findStrings>
       <find>PluginAppCompatActivity</find>
       <find>com.qihoo360.framework.ver</find>
+      <find>project.getTasks().</find>
+      <find>implements Plugin&lt;Project&gt;</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -162,9 +122,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
         <option value="$PROJECT_DIR$/src/main/groovy/com/qihoo360/replugin/gradle/plugin/manifest/ManifestAPI.groovy" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/rp-config.gradle" />
       </list>
     </option>
   </component>
@@ -180,7 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,17 +153,73 @@
               <item name="replugin-plugin-gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="replugin-plugin-gradle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="replugin-plugin-gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="replugin-plugin-gradle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="replugin-plugin-gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="replugin-plugin-gradle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="replugin-plugin-gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="replugin-plugin-gradle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="replugin-plugin-gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="plugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="replugin-plugin-gradle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="replugin-plugin-gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="manifest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="replugin-plugin-gradle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="replugin-plugin-gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="replugin-plugin-gradle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="replugin-plugin-gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle-plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../xiaohui/xiaohui-android-replugin/plugins/Test" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -313,23 +329,23 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21715818" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info id="Build Variants" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="Resources Explorer" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Statistic" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.43841642" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Gradle View" order="5" />
-      <window_info anchor="bottom" id="Build" order="6" weight="0.22986823" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.3797654" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.23020528" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3020528" />
       <window_info anchor="bottom" id="Debug" order="8" />
+      <window_info anchor="bottom" id="Statistic" order="9" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Gradle" order="1" visible="true" weight="0.1313673" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -360,19 +376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="71" column="57" lean-forward="true" selection-start-line="71" selection-start-column="57" selection-end-line="71" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#605#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rp-config.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/rp-publish.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="931">
@@ -380,10 +383,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/qihoo360/replugin/gradle/plugin/manifest/ManifestAPI.groovy">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/gradle-plugins/replugin-plugin-gradle.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+        <state relative-caret-position="323">
+          <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/qihoo360/replugin/gradle/plugin/AppConstant.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/qihoo360/replugin/gradle/plugin/debugger/PluginDebugger.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/qihoo360/replugin/gradle/plugin/injector/Injectors.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/qihoo360/replugin/gradle/plugin/ReClassPlugin.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="56" column="45" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/qihoo360/replugin/gradle/plugin/injector/loaderactivity/LoaderActivityInjector.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="37" column="72" selection-start-line="37" selection-start-column="72" selection-end-line="37" selection-end-column="72" />
         </state>
       </provider>
     </entry>
@@ -394,26 +432,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/qihoo360/replugin/gradle/plugin/injector/loaderactivity/LoaderActivityInjector.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/qihoo360/replugin/gradle/plugin/injector/Injectors.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
             <element signature="e#0#605#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/qihoo360/replugin/gradle/plugin/manifest/ManifestAPI.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="69" column="13" lean-forward="true" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="131" column="45" lean-forward="true" selection-start-line="131" selection-start-column="45" selection-end-line="131" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rp-config.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
     </entry>

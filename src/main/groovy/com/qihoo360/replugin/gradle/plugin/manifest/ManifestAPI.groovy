@@ -65,13 +65,8 @@ public class ManifestAPI {
                 manifestOutputFile = processManifestTask.getManifestOutputFile()
                 instantRunManifestOutputFile = processManifestTask.getInstantRunManifestOutputFile()
             } catch (Exception e) {
-//                manifestOutputFile = new File(processManifestTask.getManifestOutputDirectory(), "AndroidManifest.xml")
-//                instantRunManifestOutputFile = new File(processManifestTask.getInstantRunManifestOutputDirectory(), "AndroidManifest.xml")
-                // replugin-androidx适配高版本gradle api
-                def dir =   ((ManifestProcessorTask)processManifestTask).getManifestOutputDirectory()
-                manifestOutputFile = new File(dir.getAsFile().get(), "AndroidManifest.xml")
-                dir = ((ManifestProcessorTask)processManifestTask).getInstantAppManifestOutputDirectory()
-                instantRunManifestOutputFile = new File(dir.getAsFile().get(), "AndroidManifest.xml")
+                manifestOutputFile = new File(processManifestTask.getManifestOutputDirectory(), "AndroidManifest.xml")
+                instantRunManifestOutputFile = new File(processManifestTask.getInstantRunManifestOutputDirectory(), "AndroidManifest.xml")
             }
 
             if (manifestOutputFile == null && instantRunManifestOutputFile == null) {
